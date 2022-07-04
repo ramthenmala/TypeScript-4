@@ -208,9 +208,9 @@
     "negotiator" "0.6.2"
 
 "acorn@^8.0.4":
-  "integrity" "sha512-v+DieK/HJkJOpFBETDJioequtc3PfxsWMaxIdIwujtF7FEV/MAyDQLlm6/zPvr7Mix07mLh6ccVwIsloceodlg=="
-  "resolved" "https://registry.npmjs.org/acorn/-/acorn-8.0.5.tgz"
-  "version" "8.0.5"
+  "integrity" "sha512-Xx54uLJQZ19lKygFXOWsscKUbsBZW0CPykPhVQdhIeIwrbPmJzqeASDInc8nKBnp/JT6igTs82qPXz069H8I/A=="
+  "resolved" "https://registry.npmjs.org/acorn/-/acorn-8.7.1.tgz"
+  "version" "8.7.1"
 
 "ajv-errors@^1.0.0":
   "integrity" "sha512-DCRfO/4nQ+89p/RK43i8Ezd41EqdGIU4ld7nGF8OQ14oc/we5rEntLCUa7+jrn3nn83BosfwZA0wb4pon2o8iQ=="
@@ -1963,9 +1963,9 @@
     "brace-expansion" "^1.1.7"
 
 "minimist@^1.2.5":
-  "integrity" "sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw=="
-  "resolved" "https://registry.npmjs.org/minimist/-/minimist-1.2.5.tgz"
-  "version" "1.2.5"
+  "integrity" "sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q=="
+  "resolved" "https://registry.npmjs.org/minimist/-/minimist-1.2.6.tgz"
+  "version" "1.2.6"
 
 "mixin-deep@^1.2.0":
   "integrity" "sha512-WRoDn//mXBiJ1H40rqa3vH0toePwSsGb45iInWlTySa+Uu4k3tYUSxa2v1KqAiLtvlrSzaExqS1gtk96A9zvEA=="
@@ -3029,10 +3029,10 @@
     "media-typer" "0.3.0"
     "mime-types" "~2.1.24"
 
-"typescript@*", "typescript@^4.7.4":
-  "integrity" "sha512-C0WQT0gezHuw6AdY1M2jxUO83Rjf0HP7Sk1DtXj6j1EwkQNZrHAg2XPWlq62oqEhYvONq5pkC2Y9oPljWToLmQ=="
-  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.7.4.tgz"
-  "version" "4.7.4"
+"typescript@*", "typescript@4.2.2":
+  "integrity" "sha512-tbb+NVrLfnsJy3M59lsDgrzWIflR4d4TIUjz+heUnHZwdF7YsrMTKoRERiIvI2lvBG95dfpLxB21WZhys1bgaQ=="
+  "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.2.2.tgz"
+  "version" "4.2.2"
 
 "union-value@^1.0.0":
   "integrity" "sha512-tJfXmxMeWYnczCVs7XAEvIV7ieppALdyepWMkHkwciRpZraG/xwT+s2JN8+pr1+8jCRf80FFzvr+MpQeeoF4Xg=="

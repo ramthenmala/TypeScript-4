@@ -1,4 +1,6 @@
+
 function startGame() {
+    // start click
     var msg = document.getElementById('messages');
     msg!.innerHTML = 'Welcome to new game!';
 }
